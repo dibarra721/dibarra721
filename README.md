@@ -5,7 +5,6 @@ Hello! I'm Diana a Full Stack JavaScript Developer from Salt Lake City, Utah. <b
 [Portfolio](https://dianaibarradev.com/)<br/>
 [LinkedIn](https://www.linkedin.com/in/dianaibarrathedev/)
 
-![Screenshot](photoo.png)
 
 
 
